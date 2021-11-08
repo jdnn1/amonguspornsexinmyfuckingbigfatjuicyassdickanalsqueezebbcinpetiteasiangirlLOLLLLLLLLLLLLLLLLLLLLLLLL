@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/jdnn1/again-lol/main/README.md",true))()
+https://raw.githubusercontent.com/jdnn1/privatefinal-.-.-..-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-/main/README.md?token=AT5JJCHUXFRALUNUTPFHZODBRDB7W
